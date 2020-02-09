@@ -1,2 +1,4 @@
-# Swing-LibraryMS
-无法描述
+# Swing
+# 编辑器 Eclipse
+# 运行环境 jdk8.0
+# 插件WindowBuilder
